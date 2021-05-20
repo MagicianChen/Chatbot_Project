@@ -6,3 +6,5 @@ I develop this procject to learn more about chatbot system. It consists of two p
 2. multi-turn demo
 
 ## Single-turn
+### Requirement
+``` python == 3.x  Flase  nltk  fasttext  jieba
