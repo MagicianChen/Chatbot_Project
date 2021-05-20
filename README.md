@@ -1,2 +1,3 @@
 # Chatbot_Project
-A chatbot project based on semantic matching and deep learning.
+## Overview
+I develop this procject to learn more about chatbot system. It consists of two parts: single-turn and multi-turn. For single-turn demo, i try three strategies: word-level matching, embedding-level matching and tree-based matching. As for multi-turn demo, i apply graph and deep learning to achieve it. The content will be continuouly updated.
