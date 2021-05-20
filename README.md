@@ -7,4 +7,4 @@ I develop this procject to learn more about chatbot system. It consists of two p
 
 ## Single-turn
 ### Requirement
-``` python == 3.x  Flase  nltk  fasttext  jieba
+``` python == 3.x  Flase  nltk  fasttext  jieba  ```
