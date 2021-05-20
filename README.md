@@ -21,7 +21,7 @@ fasttext
 jieba  
 ```
 ### Prepare data
-prepare question answer pair as a txt file and store in './data/'
+prepare question answer pair as a txt file and store in './data/'. The key 'candidate' is used to enhance the matching performance of BLEU score.
 ```
 {  
    'ques': question,
@@ -42,7 +42,7 @@ split the word for training data at first
 ```
 python preprocess.py
 ```
-run the ques_ans.py to test the demo, you can change the matching mode, data path and word2vec model file path in this file.
+run the ques_ans.py to test the demo, you can change the matching mode, data path and word2vec model file path in this file. Before running, you need to download the fasttext pre-trained model: [fasttext](https://fasttext.cc/)
 ```
 python ques_ans.py
 ```
